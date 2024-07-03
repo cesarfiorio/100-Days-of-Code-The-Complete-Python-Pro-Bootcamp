@@ -55,3 +55,4 @@ for char in password:
     rand_pass += char
 
 print (rand_pass)
+print (rand_pass)
