@@ -63,3 +63,20 @@ This project is licensed under the [MIT License](LICENSE).
 ├── Treasure_island.py
 ├── coffee_machine.py
 └── README.md
+
+---
+
+## 📌 Author
+
+**Cesar Fiorio**  
+📍 [GitHub Profile](https://github.com/cesarfiorio)
+
+---
+
+## 🏁 Status
+
+✅ In Progress – I'm actively pushing my daily projects and expanding my Python skills!
+
+Feel free to explore the code, give suggestions, or fork the repo for your own learning.
+
+
