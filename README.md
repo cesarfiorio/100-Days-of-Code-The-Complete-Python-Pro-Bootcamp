@@ -1,62 +1,67 @@
 # 🐍 100 Days of Code – The Complete Python Pro Bootcamp
 
-This repository contains my solutions and projects from the **100 Days of Code - The Complete Python Pro Bootcamp** by Dr. Angela Yu (Udemy). The course covers Python fundamentals, OOP, data structures, games, automation, and real-world app development.
+This repository contains my solutions, projects, and daily progress from the **100 Days of Code - The Complete Python Pro Bootcamp** by Dr. Angela Yu on Udemy.
 
----
+From beginner concepts to advanced topics like OOP, web scraping, automation, GUI apps, and data science — everything is here as I build real-world Python projects day by day!
 
 ## 📘 Course Goals
+- Master Python 3 from zero to pro
+- Build 100+ projects (games, apps, automation tools)
+- Deep dive into OOP, APIs, Tkinter, Pandas, and more
+- Strengthen problem-solving and debugging skills
 
-- Master Python 3 programming from beginner to advanced
-- Build real projects including games and apps
-- Practice core concepts with daily hands-on exercises
-- Apply OOP, logic, debugging, and problem-solving skills
+## 🛠 Technologies & Libraries
+- Python 3.11+
+- Turtle Graphics
+- Tkinter (GUI)
+- Pandas
+- Requests & APIs
+- JSON handling
+- Standard libraries: `random`, `os`, `time`, `math`, `re`, etc.
 
----
-
-## 🛠 Technologies
-
-- Python 3.11
-- Turtle (graphics)
-- `random`, `os`, `math`, `time`, `re` (standard libraries)
-- Object-Oriented Programming
-- File I/O
-- JSON, APIs
-- Tkinter GUI (in later projects)
-
----
-
-## 📁 Folder Structure
-
-100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/
-├── Caesar Cipher/
-├── Higher or Lower Project/
-├── pong-game/
-├── quiz-game-start/
-├── snake-game/
-├── turtle-crossing/
-├── turtle-race-final/
-├── Bids.py
-├── Blackjack.py
-├── Calculator.py
-├── Password-Generator.py
-├── Rock-Paper-Scissors.py
-├── Treasure_island.py
-├── coffee_machine.py
+## 📁 Current Repository Structure
+100-Days-Of-Code/
+├── Python_Beginning_to_Intermediate/
+│   ├── Caesar Cipher/
+│   ├── Higher or Lower Project/
+│   ├── pong-game/
+│   ├── quiz-game-start/
+│   ├── Bids.py
+│   ├── Blackjack.py
+│   ├── Calculator.py
+│   ├── number-guessing.py
+│   ├── Password-Generator.py
+│   ├── README.md
+│   ├── Rock-Paper-Scissors.py
+│   └── Treasure_island.py
+├── Python_Intermediate_advanced/
+│   ├── BS4
+│   │
+│   ├── Pandas
+│   │   
+│   ├── smtplib_JSON_APIs
+│   │       
+│   ├── Tkinter_JSON
+│   │ 
+│   └── Turtle/
+│ 
 └── README.md
 
----
 
-## 📌 Author
-
-**Cesar Fiorio**  
-📍 [GitHub Profile](https://github.com/cesarfiorio)
-
----
+## 🚀 Highlight Projects
+- 🐢 **Turtle Graphics**: Pong, Snake Game, Turtle Crossing
+- 🃏 **Blackjack** & **Higher or Lower**
+- 🔐 **Password Generator**
+- 🌎 **U.S. States Quiz Game** (with Pandas & Turtle)
+- 🌐 Web scraping with **BeautifulSoup**
+- GUI apps with **Tkinter**
 
 ## 🏁 Status
+**In Progress** – New projects added almost daily!  
+Currently on Day ~60 and pushing forward!
 
-✅ In Progress – I'm actively pushing my daily projects and expanding my Python skills!
+## 👨‍💻 Author
+**Cesar Fiorio**  
+[GitHub Profile](https://github.com/cesarfiorio)
 
-Feel free to explore the code, give suggestions, or fork the repo for your own learning.
-
-
+Feel free to explore, star ⭐, fork, or drop suggestions! Happy coding! 🐍
